@@ -1,3 +1,22 @@
+# <img src="src\assets\vector1.png" width=40>  Customer Support Zone <img src="src\assets\vector2.png" width=40> 
+
+> build an attractive & simple green earth with responsive web design
+>   - 📂 GitHub Repository : 
+>   - 🌐 Live Link :  https://velvety-kelpie-19ac6b.netlify.app/
+
+---
+
+## ⚙️ Technology Stack:
+ 
+| Layer                  | Technology                    |
+|--------------          |-------------------------------|
+| Frontend               |  JSX, React       |
+| Styling                | 	Tailwind CSS                 |
+| Programming language   | HRML5, JavaScript  |
+| Version Ctrl           | Git, GitHub       |
+| Deployment             | Netlify       |
+
+---
 
 
 ## What is JSX, and why is it used?
