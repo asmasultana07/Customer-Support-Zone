@@ -1,7 +1,7 @@
 # <img src="src\assets\vector1.png" width=40>  Customer Support Zone <img src="src\assets\vector2.png" width=40> 
 
 > build an attractive React-based Customer Support Zone designed with responsive web design 
->   - 📂 GitHub Repository : 
+>   - 📂 GitHub Repository : https://github.com/asmasultana07/Customer-Support-Zone
 >   - 🌐 Live Link :  https://velvety-kelpie-19ac6b.netlify.app/
 
 ---
